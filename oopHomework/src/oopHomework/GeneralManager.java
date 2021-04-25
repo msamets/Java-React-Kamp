@@ -2,7 +2,7 @@ package oopHomework;
 
 import java.util.Scanner;
 
-public class GeneralService {
+public class GeneralManager {
 	public void addToCreditCard() {
 		System.out.println("Kredi kartý eklendi.");
 	}

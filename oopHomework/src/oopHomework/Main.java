@@ -34,11 +34,11 @@ public class Main {
 			System.out.println(" ");
 		}
 		
-		CourseService courseservice = new CourseService();
-		courseservice.addToComment();
+		CourseManager coursemanager = new CourseManager();
+		coursemanager.addToComment();
 		
-		GeneralService generalservice = new GeneralService();
-		generalservice.addToCreditCard();
+		GeneralManager generalmanager = new GeneralManager();
+		generalmanager.addToCreditCard();
 		
 		
 

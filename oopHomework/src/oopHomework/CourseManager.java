@@ -1,6 +1,6 @@
 package oopHomework;
 
-public class CourseService {
+public class CourseManager {
 	public void addToCourse() {
 		System.out.println("Bu kurs hesabýnýza eklendi.");
 	}

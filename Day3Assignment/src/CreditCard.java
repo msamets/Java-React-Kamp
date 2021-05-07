@@ -10,7 +10,7 @@ public class CreditCard {
 	public CreditCard(String accountNumber, String ownerFullName, int cvv) {
 		this.accountNumber = accountNumber;
 		this.ownerFullName = ownerFullName;
-		this.cvv = cvv;
+		this.cvv =  cvv;
 	}
 	
 	public String getaccountNumber() {
